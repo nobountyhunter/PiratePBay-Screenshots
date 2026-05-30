@@ -18,3 +18,4 @@ A small, free and open-source browser extension that shows screenshot links righ
 
 Open source — all code included, nothing hidden.
 
+![Example](example1.png)
